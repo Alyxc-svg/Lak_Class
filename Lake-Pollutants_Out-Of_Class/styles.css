@@ -1,0 +1,45 @@
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+.headline{
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, 
+    serif;
+}
+
+.subhead{
+    color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow'
+    , Arial, sans-serif;
+}
+
+p{
+    line-height: 1.4em;
+    padding-bottom: 20px;
+}
+
+
+.top-photo {
+    max-width: 100%;
+    margin:0 auto;
+
+}
+
+figcaption {
+    color: black;
+    font-size: .75em;
+
+}
+
+.byline {
+    text-transform: uppercase;
+
+}
+
+span {
+    text-transform: uppercase;
+    font-weight: bold;
+}
